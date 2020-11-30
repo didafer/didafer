@@ -1,5 +1,7 @@
-### Hi there 👋
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
+### Hi there 👋
+- 🔭 I’m currently working on ...
 <!--
 **didafer/didafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
